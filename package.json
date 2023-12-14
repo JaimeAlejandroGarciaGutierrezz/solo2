@@ -16,6 +16,7 @@
     "typescript": "^5.2.2"
   },
   "devDependencies": {
+    "esbuild": "^0.19.8",
     "tailwindcss": "^3.3.5"
   }
 }
